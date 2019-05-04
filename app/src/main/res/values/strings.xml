@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlowerCard</string>
+    <string name="description_flower_rose">Rose</string>
+    <string name="descripion_flower_carnation">Carnation</string>
+    <string name="description_flower_tulip">Tulip</string>
+    <string name="description_flower_daisy">Daisy</string>
+    <string name="descripion_flower_sunflower">Sunflower</string>
+    <string name="description_flower_daffodil">Daffodil</string>
+
+    <string name="send_money">Send Money</string>
+    <string name="receive_money">Receive Money</string>
+    <string name="refund_money">Refund Money</string>
+    <string name="withdraw">Withdraw</string>
+</resources>
